@@ -1,0 +1,6 @@
+[submodule "Back-End-JornalOnline"]
+	path = Back-End-JornalOnline
+	url = https://github.com/RaquelPB/Back-End-JornalOnline.git
+[submodule "Front-End-JornalOnline"]
+	path = Front-End-JornalOnline
+	url = https://github.com/RaquelPB/Front-End-JornalOnline.git
